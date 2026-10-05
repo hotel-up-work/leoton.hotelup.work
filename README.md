@@ -1,6 +1,6 @@
 # Leoton Hotel
 
-Live site: https://leoton.chernivtsi.space
+Live site: https://leoton.hotelup.work
 
 ## About
 Leoton Hotel — готель у Чернівцях. Односторінковий лендинг. Фото закладу немає (`photos_source: null`), тому hero типографічний (CSS/SVG), а єдині фото — міста Чернівців з Pexels (див. Photos).
