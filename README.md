@@ -38,7 +38,7 @@ Booking.com 8.3/10 (145), Google 3.8/5 (147). Знімок на 30.09.2026, пл
 ## Contact
 - Phone: +380 66 363 3201
 - Booking.com: https://www.booking.com/hotel/ua/leoton.html
-- Google Maps: https://maps.google.com/?cid=10247185743084967943
+- Google Maps: https://maps.app.goo.gl/RQBD6fo4k4AVZYY7A
 - Address: вул. Чкалова, 30В, Чернівці
 
 ## Sources
